@@ -39,7 +39,7 @@ https://your-portfolio-link.netlify.app
 
 📬 Contact
 
-Email: your-email@example.com
+Email: anirudhghogre2002@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/your-profile
 
